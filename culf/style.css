@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Yuji+Mai&display=swap');
+
+
+.firstline{
+    font-family: "Yuji Mai", serif;
+    font-weight: 300;
+    font-style: normal; 
+    padding: 0px 30% 0px 30%;
+    border-style: solid;
+    border-color: rgb(236, 42, 42);
+    border-width: 2px;
+    background: linear-gradient(to top left, #ff3300 0%, #ffffff 100%);
+    color:rgb(231, 24, 24);  
+}
+
+.secondline{
+    margin: 3% 15% 2% 15%;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(131, 40, 131);
+}
+
+.third{
+    margin: 3% 2% 2% 2%;
+}
+
+/*.video-container {
+    position: relative;
+    width: 100%;
+    max-width: 640px; 
+    margin:auto;
+}
+*/
+
+.vd{
+    display:flex;
+
+} 
+
+
+.fourth{
+    margin: 1% 5% 2% 3%;
+}
+
+.five{
+    margin: 3% 2% 2% 3%;
+}
+
+img{
+    position: relative;
+    overflow: hidden;
+    border-radius: 20% 0% 20% 0%;
+}
+
+
+
+.sixth{
+    margin: 3% 2% 2% 3%;
+}
+
+.seven{
+    margin: 3% 2% 2% 3%;
+}
+
+.eight{
+    margin: 3% 2% 2% 3%;
+}
+
+.nine{
+    margin: 3% 2% 2% 2%;
+}
+
+.video-container {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+  }
+  
+  #birthday-video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  #birthday-audio {
+    display: none;
+  }
+
+  .unique{
+    text-align: justify;
+    text-transform: capitalize;
+    color: rgb(116, 11, 116);
+  }
+
+  .diff{
+    text-align: justify;
+    text-transform: capitalize;
+    color: rgb(216, 56, 83);
+  }
+
+  /* .secret{
+    border-radius: 0.31rem;
+    height: 30px;
+    width: 44%;
+    border: 1px solid  rgb(116, 11, 116);
+    transition: 0.2s ease;
+    position: relative;
+    margin-bottom: 1.5rem;
+    background-color: rgba(161, 7, 7, 0.623);
+    outline: none;
+    color: rgb(214, 199, 199);
+  }
+    */
+
+.wow{
+    background: linear-gradient(to bottom right, #ff0000 0%, #ffcc00 100%);
+    font-weight: 700;
+    text-align: center;
+    padding: 45px;
+    height: 145px;
+    width: 155px;
+    border-radius: 40%;
+    color: #ffffff;
+}
+
+.naughty{
+     border-style: none;
+     border-radius: 0.31rem;
+     background-color: #3806c2;   
+     color: #ffffff; 
+     height: 27px;
+     width: 350px;
+     margin-left: 370px;
+}
